@@ -69,7 +69,6 @@ Me chamo Marcelo, Moro no Piauí e estou estudando para ser um desenvolvedor de 
 
 ### 📊 Estatísticas
 
-
 <p>
   <img 
     align="left" 
@@ -83,7 +82,7 @@ Me chamo Marcelo, Moro no Piauí e estou estudando para ser um desenvolvedor de 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="[https://github-readme-stats.vercel.app/api/top-langs/?username=luzardoSENAI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo33&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7)" 
-  <p/>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzardoSENAI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+  />
 
 </p>
